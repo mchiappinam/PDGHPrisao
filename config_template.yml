@@ -1,0 +1,9 @@
+mySQL:
+  ip: localhost
+  porta: 3306
+  usuario: root
+  senha: 5ebFj1EYOhpyu0tJ47
+  db: dayz_prisao
+  tabela: jogadores
+mundoPadrao: world
+locais: []

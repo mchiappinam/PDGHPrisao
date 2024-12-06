@@ -1,0 +1,15 @@
+name: PDGHPrisao
+main: me.mchiappinam.pdghprisao.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands:
+   prisao:
+      description: Info.
+      usage: /<command>
+   prender:
+      description: Info.
+      usage: /<command>
+   soltar:
+      description: Info.
+      usage: /<command>
